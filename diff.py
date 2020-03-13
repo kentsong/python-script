@@ -1,5 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+'''
+Used by Python 3.x
+
+範例參考：https://blog.51cto.com/superleedo/2114885 將程式碼 python 2.x 更新至 3.x
+另一個說明範例：https://blog.csdn.net/Lockey23/article/details/77913855
+
+'''
+
+
 import os
 import sys
 import difflib
