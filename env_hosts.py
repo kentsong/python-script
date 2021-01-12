@@ -17,8 +17,8 @@ def main():
     
     ### 需要被维护的 ip 列表
     ip_dict = {
-        '101.236.15.64':'api-oeco-itv.cp21.ott.cibntv.net',
-        '10.124.65.105':'plugin-scloud.cp21.ott.cibntv.net'
+        '101.236.15.64':'api-oeco-itv.cp21.ott.cibntv.net api-oeco-itv-letv.yysh.mgtv.com',
+        '10.122.13.89':'plugin-scloud.cp21.ott.cibntv.net'
     }
     
     '''
@@ -58,7 +58,7 @@ def main():
 ##检查sudo权限 
 if os.geteuid() == 0:
     print("We're root!")
-    main()    
+    main()
 else:
     print("We're not root.")
     subprocess.call(['sudo', 'python3', *sys.argv])
