@@ -1,0 +1,9 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+#101.236.15.64  api-oeco-itv.cp21.ott.cibntv.net api-oeco-itv-letv.yysh.mgtv.com
+#10.122.13.89 plugin-scloud.cp21.ott.cibntv.net plugin-scloud-letv.yysh.mgtv.com
+#10.122.13.89 plugin-scloud.cp21.ott.cibntv.net
+#10.122.148.133 api.itv.cp21.ott.cibntv.net static.cp21.ott.cibntv.net
+#10.122.148.133 api-itv.cp21.ott.cibntv.net static-itv.cp21.ott.cibntv.net
+#10.124.66.193  ark.letv.com
+#10.124.66.193  ark.cp21.ott.cibntv.net
